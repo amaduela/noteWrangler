@@ -1,1 +1,2 @@
-# noteWrangler
+# Note Wrangler app
+' code school
