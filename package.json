@@ -1,0 +1,26 @@
+{
+  "name": "notewrangler",
+  "version": "1.0.0",
+  "description": "node raw app, client and server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaduela/noteWrangler.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "angularjs",
+    "bootstrap",
+    "jquery"
+  ],
+  "author": "Anselmo Maduela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaduela/noteWrangler/issues"
+  },
+  "homepage": "https://github.com/amaduela/noteWrangler#readme"
+}
